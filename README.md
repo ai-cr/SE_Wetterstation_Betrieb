@@ -1,1 +1,1 @@
-# SE_Wetterstation_Betrieb
+# Software Engineering Projekt: Wetterstation - Betrieb
